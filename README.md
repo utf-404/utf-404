@@ -3,61 +3,75 @@
 <h2 align="center">Hi there 👋 I'm utf-404</h2>
 
 <p align="center">
-  Passionate about 🤖 Robotics, 🌐 Web Development, and 🚀 Innovation<br>
-  Always learning, always building.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Developer+%F0%9F%A7%A0;Robotics+%26+Web+Integration+Specialist;FastAPI+%2B+ROS2+Lover;Welcome+to+my+GitHub+world!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 🛠️ I enjoy building integrated systems with **ROS2** and **FastAPI**
-- 🔍 Currently focused on **robot control systems** and **real-time web integration**
-- 💡 Exploring **AI-based pose detection** and **PLC communication bridges**
-- 📚 I love documenting and sharing my learning journey
+## 🧠 About Me | 소개
+
+> **ENGLISH**
+
+- 🛠️ I enjoy building integrated systems with **ROS2**, **FastAPI**, and **PostgreSQL**
+- 🤖 I specialize in **robot control**, **web-based real-time monitoring**, and **PLC-ROS2 bridges**
+- 🌐 I document my journey and build systems that help others grow
+
+> **한글**
+
+- 🛠️ **ROS2**, **FastAPI**, **PostgreSQL**를 활용한 통합 시스템을 개발하고 있어요  
+- 🤖 **로봇 제어**, **웹 기반 실시간 모니터링**, **PLC-ROS2 연동**에 관심이 많습니다  
+- 📚 학습과 개발 과정을 **블로그에 기록**하며 공유하고 있어요  
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utf-404&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=utf-404&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=utf-404&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=utf-404&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-### 🧾 Recent Projects
+## 🔥 Recent Projects | 주요 프로젝트
 
 - 🔧 **Fall Detection Monitoring System**  
-  A real-time monitoring system for elderly care using YOLOv8 and ROS2 integration.
+  YOLOv8 기반 자세 추정으로 낙상을 실시간 감지하는 시스템 (ROS2 + FastAPI)
 
 - 🌐 **Web-based Robot Control Panel**  
-  A FastAPI + ROS2 project for monitoring and controlling industrial robots from the web.
+  산업용 로봇을 웹에서 실시간으로 제어 가능한 통합 대시보드 시스템
 
-- ⚙️ **PLC-ROS2 Bridge**  
-  Built a bridge module to subscribe PLC status and sync it with ROS2 + FastAPI backend.
+- ⚙️ **PLC ↔ ROS2 Bridge Module**  
+  PLC 신호를 ROS2에서 구독 및 FastAPI로 연동하는 중계 모듈 개발
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@oka1313)
-[![Gmail](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+<p>
+  <a href="https://utf-404.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
