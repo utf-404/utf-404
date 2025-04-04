@@ -1,14 +1,14 @@
 <!-- README.md for https://github.com/utf-404 -->
 
-<h2 align="center">“코드는 읽기 쉬워야 하고, 시스템은 사용자 중심이어야 한다.”</h2>
-<p align="center">— utf-404</p>
-
 <h2 align="center">Hi there 👋 I'm utf-404</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Passionate+Developer+%F0%9F%A7%A0;Robotics+%26+Web+Integration+Specialist;%2BROS2+Lover;Welcome+to+my+GitHub+world!" alt="Typing SVG" />
 </p>
 
+
+<h2 align="center">“코드는 읽기 쉬워야 하고, 시스템은 사용자 중심이어야 한다.”</h2>
+<p align="center">— utf-404</p>
 ---
 
 ## 🧠 About Me | 소개
