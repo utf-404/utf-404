@@ -3,7 +3,7 @@
 <h2 align="center">Hi there 👋 I'm utf-404</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Developer+%F0%9F%A7%A0;Robotics+%26+Web+Integration+Specialist;FastAPI+%2B+ROS2+Lover;Welcome+to+my+GitHub+world!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Passionate+Developer+%F0%9F%A7%A0;Robotics+%26+Web+Integration+Specialist;FastAPI+%2B+ROS2+Lover;Welcome+to+my+GitHub+world!" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,15 +12,15 @@
 
 > **ENGLISH**
 
-- 🛠️ I enjoy building integrated systems with **ROS2**, **FastAPI**, and **PYTHON**
-- 🤖 I specialize in **robot control**, **web-based real-time monitoring**, and **PLC-ROS2 bridges**
-- 🌐 I document my journey and build systems that help others grow
+- 🛠️ I enjoy building integrated systems using **ROS2**, **FastAPI**, and **Python**  
+- 🤖 I'm focused on **robot control**, **web-based real-time monitoring**, and **AI applications**  
+- 🌐 I share my knowledge and journey through blog posts and open source projects  
 
 > **한글**
 
-- 🛠️ **ROS2**, **FastAPI**, **PYTHON**등을 활용한 통합 시스템을 개발하고 있어요  
-- 🤖 **로봇 제어**, **웹 기반 실시간 모니터링**, **WEB-ROS2 연동**에 관심이 많습니다  
-- 📚 학습과 개발 과정을 **블로그에 기록**하며 공유하고 있어요  
+- 🛠️ **ROS2**, **FastAPI**, **Python**을 활용한 통합 시스템을 개발하고 있어요  
+- 🤖 **로봇 제어**, **웹 기반 실시간 모니터링**, **AI 응용 기술**에 관심이 많습니다  
+- 📚 배운 내용을 **블로그에 기록하고**, 오픈 소스 프로젝트로 공유하고 있어요  
 
 ---
 
@@ -49,13 +49,13 @@
 ## 🔥 Recent Projects | 주요 프로젝트
 
 - 🔧 **Fall Detection Monitoring System**  
-  YOLOv8 기반 자세 추정으로 낙상을 실시간 감지하는 시스템 
+  YOLOv8 기반 자세 추정 모델을 활용해 낙상을 실시간 감지하는 시스템
 
-- 🌐 **Web Developer**  
-  web 개발
-  
-- ⚙️ **AI ↔ Human Chess Game**  
-  AI와 사람의 Chess Game
+- 🌐 **Web-based Robot Control Dashboard**  
+  웹에서 로봇을 제어하고 상태를 실시간으로 모니터링할 수 있는 통합 제어 패널
+
+- ♟️ **AI ↔ Human Chess Game**  
+  AI와 사람 간 체스 게임을 구현한 인터랙티브 프로젝트 (Python 기반)
 
 ---
 
