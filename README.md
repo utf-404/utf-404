@@ -12,14 +12,14 @@
 
 > **ENGLISH**
 
-- 🛠️ I enjoy building integrated systems with **ROS2**, **FastAPI**, and **PostgreSQL**
+- 🛠️ I enjoy building integrated systems with **ROS2**, **FastAPI**, and **PYTHON**
 - 🤖 I specialize in **robot control**, **web-based real-time monitoring**, and **PLC-ROS2 bridges**
 - 🌐 I document my journey and build systems that help others grow
 
 > **한글**
 
-- 🛠️ **ROS2**, **FastAPI**, **PostgreSQL**를 활용한 통합 시스템을 개발하고 있어요  
-- 🤖 **로봇 제어**, **웹 기반 실시간 모니터링**, **PLC-ROS2 연동**에 관심이 많습니다  
+- 🛠️ **ROS2**, **FastAPI**, **PYTHON**등을 활용한 통합 시스템을 개발하고 있어요  
+- 🤖 **로봇 제어**, **웹 기반 실시간 모니터링**, **WEB-ROS2 연동**에 관심이 많습니다  
 - 📚 학습과 개발 과정을 **블로그에 기록**하며 공유하고 있어요  
 
 ---
@@ -49,13 +49,13 @@
 ## 🔥 Recent Projects | 주요 프로젝트
 
 - 🔧 **Fall Detection Monitoring System**  
-  YOLOv8 기반 자세 추정으로 낙상을 실시간 감지하는 시스템 (ROS2 + FastAPI)
+  YOLOv8 기반 자세 추정으로 낙상을 실시간 감지하는 시스템 
 
-- 🌐 **Web-based Robot Control Panel**  
-  산업용 로봇을 웹에서 실시간으로 제어 가능한 통합 대시보드 시스템
-
-- ⚙️ **PLC ↔ ROS2 Bridge Module**  
-  PLC 신호를 ROS2에서 구독 및 FastAPI로 연동하는 중계 모듈 개발
+- 🌐 **Web Developer**  
+  web 개발
+  
+- ⚙️ **AI ↔ Human Chess Game**  
+  AI와 사람의 Chess Game
 
 ---
 
