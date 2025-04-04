@@ -9,7 +9,7 @@
 
 <h2 align="center">“코드는 읽기 쉬워야 하고, 시스템은 사용자 중심이어야 한다.”</h2>
 <p align="center">— utf-404</p>
----
+
 
 ## 🧠 About Me | 소개
 
