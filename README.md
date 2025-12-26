@@ -36,10 +36,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/YOLOv8-FF1493?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAM2-6A5ACD?style=flat-square&logo=meta&logoColor=white"/>
-</p>
-<p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 </p>
 
