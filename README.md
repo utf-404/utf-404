@@ -1,7 +1,5 @@
 <!-- README.md for https://github.com/utf-404 -->
 
-<h2 align="center">Hi there 👋 I'm utf-404</h2>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Hi%20there%20👋%20I'm%20UTF-404!&descAlign=83&reversal=false&animation=fadeIn&desc=Have%20a%20Good%20day%20&descAlignY=69&descSize=25&fontAlign=50&fontAlignY=42)
 </div>
 <br/>
